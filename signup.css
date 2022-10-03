@@ -1,0 +1,21 @@
+body
+{
+margin-top: 100px;
+padding: 0px;
+}
+
+h1{
+    text-align: center;
+  
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.input{
+    margin: 10px;
+}
